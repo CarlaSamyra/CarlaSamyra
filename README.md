@@ -1,6 +1,7 @@
-## Hi there 👋! I'm Samyra Torres!
+## Hi there 👋! I'm Samyra Torres!!
 
-Sou estudante da Universidade Federal do Ceará - campus Quixadá
+Sou estudante da Universidade Federal do Ceará - Campus Quixadá
+
 
 
 
