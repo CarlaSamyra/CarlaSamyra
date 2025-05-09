@@ -1,5 +1,9 @@
 ## Hi there 👋! I'm Samyra Torres!
 
+** Sou estudante da Universidade Federal do Ceará - campus Quixadá
+
+
+
 <!--
 **CarlaSamyra/CarlaSamyra** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
