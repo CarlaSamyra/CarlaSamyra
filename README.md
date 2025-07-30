@@ -1,6 +1,7 @@
 ## Hi there 👋! I'm Samyra Torres!!
 
-Sou estudante da Universidade Federal do Ceará - Campus Quixadá /n
+Sou estudante da Universidade Federal do Ceará - Campus Quixadá 
+
 Atualmente, faço estágio na área de Web Design na empresa Zarc Tech - Fortaleza CE
 
 
