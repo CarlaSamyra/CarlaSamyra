@@ -2,7 +2,6 @@
 
 Sou estudante do curso de Design Digital da Universidade Federal do Ceará - Campus Quixadá
 
-Atualmente, faço estágio na área de Web Design na empresa Zarc Tech - Fortaleza CE
 
 
 
